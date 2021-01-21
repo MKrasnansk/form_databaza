@@ -1,0 +1,26 @@
+$primaryBG: #546e7a;
+$primaryText: white;
+$primaryDarkText: black;
+
+$secondaryBG: white;
+$secondaryText: rgb(24, 24, 24);
+
+$darkBG: #29434e;
+$darkOnText: white;
+
+$lightBG: #819ca9;
+$lightOnText: rgb(68, 6, 6);
+$lightBGC: #480808;
+$lightBGCC: #000000;
+
+
+$borderPrimary: lighten($primaryBG, 60%);
+
+$color-bg-home: rgb(151, 148, 148);
+$color-bg-gallery: rgb(90, 90, 90);
+$color-bg-cenik: rgb(109, 100, 100);
+$color-bg-contact: rgb(63, 50, 50);
+
+$font-size-base: 100%;
+$font-family-sans: Monserrat, sans-serif;
+$font-family-serif: 'Big Caslon', Georgia, serif;
